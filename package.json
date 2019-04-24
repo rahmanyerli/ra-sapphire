@@ -1,0 +1,21 @@
+{
+	"name": "ra-sapphire",
+	"displayName": "ra-sapphire",
+	"description": "Ra Sapphire theme for VSCode",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Sapphire",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ra-sapphire.json"
+			}
+		]
+	}
+}
